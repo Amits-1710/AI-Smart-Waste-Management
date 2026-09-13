@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Battery Waste Disposal",
+    "category": "battery",
+    "keywords": [
+      "battery",
+      "batteries",
+      "e-waste",
+      "hazardous"
+    ],
+    "content": "Used batteries should be kept separate from regular household waste. They should be taken to an appropriate battery collection point, e-waste collection center, or authorized recycling facility where available. Avoid mixing batteries with wet or organic waste."
+  },
+  {
+    "title": "Plastic Waste Management",
+    "category": "plastic",
+    "keywords": [
+      "plastic",
+      "plastic waste",
+      "recyclable",
+      "recycling"
+    ],
+    "content": "Clean and suitable plastic items can be placed in an appropriate plastic or recyclable waste stream. Plastic waste should be segregated from organic and other incompatible waste. Reusable plastic items should preferably be reused where practical."
+  },
+  {
+    "title": "Paper Waste Management",
+    "category": "paper",
+    "keywords": [
+      "paper",
+      "paper waste",
+      "recycling",
+      "newspaper"
+    ],
+    "content": "Clean and dry paper should generally be separated from wet and organic waste and placed in the appropriate paper or recyclable collection stream. Paper contaminated with food or other materials may require different handling depending on local rules."
+  },
+  {
+    "title": "Cardboard Waste Management",
+    "category": "cardboard",
+    "keywords": [
+      "cardboard",
+      "boxes",
+      "paperboard",
+      "recycling"
+    ],
+    "content": "Clean and dry cardboard should be flattened where practical and separated for paper or cardboard recycling. Cardboard contaminated with food or other materials may not be suitable for normal recycling."
+  },
+  {
+    "title": "Glass Waste Management",
+    "category": "glass",
+    "keywords": [
+      "glass",
+      "brown glass",
+      "green glass",
+      "white glass",
+      "bottle"
+    ],
+    "content": "Glass items should be separated from general and organic waste and placed in an appropriate glass-recycling stream where available. Different local collection systems may accept different types of glass, so local guidance should be followed."
+  },
+  {
+    "title": "Metal Waste Management",
+    "category": "metal",
+    "keywords": [
+      "metal",
+      "metal waste",
+      "aluminium",
+      "steel",
+      "recycling"
+    ],
+    "content": "Clean metal items should generally be separated from other waste and placed in the appropriate metal or recyclable collection stream. Large or specialized metal items may require a dedicated collection service."
+  },
+  {
+    "title": "Biological and Organic Waste",
+    "category": "organic",
+    "keywords": [
+      "biological",
+      "organic",
+      "food waste",
+      "wet waste",
+      "compost"
+    ],
+    "content": "Biological and organic waste should generally be separated from dry recyclable materials. Food and other suitable organic waste may be directed to an appropriate wet-waste, composting, or organic-waste collection system where available."
+  },
+  {
+    "title": "Clothes and Textile Waste",
+    "category": "textile",
+    "keywords": [
+      "clothes",
+      "clothing",
+      "textile",
+      "fabric",
+      "reuse"
+    ],
+    "content": "Usable clothes and textiles should preferably be reused, donated, or directed to an appropriate textile collection program. Damaged textiles may require specialized textile recycling or collection depending on local facilities."
+  },
+  {
+    "title": "General or Residual Waste",
+    "category": "general",
+    "keywords": [
+      "trash",
+      "general waste",
+      "residual",
+      "non recyclable"
+    ],
+    "content": "General or residual waste is material that cannot reasonably be reused, recycled, or composted through the available local systems. It should be separated from recyclable and organic waste and disposed of according to local collection guidelines."
+  },
+  {
+    "title": "Importance of Waste Segregation",
+    "category": "general",
+    "keywords": [
+      "segregation",
+      "waste segregation",
+      "separate waste",
+      "sustainability"
+    ],
+    "content": "Waste segregation helps keep recyclable materials cleaner, supports recovery and recycling, reduces contamination, and can improve the efficiency of waste-management systems. Separating waste at the source is an important part of responsible waste management."
+  },
+  {
+    "title": "Responsible AI for Waste Classification",
+    "category": "responsible-ai",
+    "keywords": [
+      "AI",
+      "responsible AI",
+      "confidence",
+      "classification",
+      "fairness"
+    ],
+    "content": "An AI waste-classification system should communicate uncertainty instead of presenting every prediction as certain. Model performance can vary across waste types and image conditions. Users should be able to understand that AI predictions are recommendations and should verify disposal guidance with applicable local rules."
+  }
+]

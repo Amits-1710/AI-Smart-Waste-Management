@@ -1,0 +1,9 @@
+Metric,Value
+Accuracy,0.7435567010309279
+Weighted Precision,0.761240011262087
+Weighted Recall,0.7435567010309279
+Weighted F1 Score,0.746310151146698
+Average Confidence,0.7597941160202026
+Correct Predictions,1731.0
+Incorrect Predictions,597.0
+Total Test Samples,2328.0
